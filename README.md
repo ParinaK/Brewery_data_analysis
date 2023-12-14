@@ -6,7 +6,7 @@ Dataset is available on Kaggle (1GB). I am sharing the link to dataset below
 https://www.kaggle.com/datasets/ankurnapa/brewery-operations-and-market-analysis-dataset
 
 The data available is in the following points
-- Brewing Parameters: Includes crucial brewing factors such as fermentation time, temperature, pH level, gravity, and ingredient ratios. These parameters are pivotal in understanding the brewing process and its impact on the final product.
+- <Brewing Parameters>: Includes crucial brewing factors such as fermentation time, temperature, pH level, gravity, and ingredient ratios. These parameters are pivotal in understanding the brewing process and its impact on the final product.
 - Beer Styles and Packaging: The dataset categorizes beers into various styles like IPA, Stout, Lager, etc., and records the type of packaging used (kegs, bottles, cans, pints).
 - Quality Scores: Each batch is rated for its quality on a scale, offering insights into the success and consistency of different brewing approaches.
 - Sales Data: Detailed records of sales figures, providing a window into the market performance of different beer types across various locations in Bangalore.
